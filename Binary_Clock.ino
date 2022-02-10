@@ -1,6 +1,5 @@
 #include <LiquidCrystal.h>
 #include <virtuabotixRTC.h>
-#include <Adafruit_Sensor.h>
 
 /* RTC pins defined */
 int CLK = 6;
