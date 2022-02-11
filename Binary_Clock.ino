@@ -1,3 +1,7 @@
+/* Author: MUSTAFA ERGÜL
+   Web Site: mustafaergul.net
+*/
+
 #include <LiquidCrystal.h>
 #include <virtuabotixRTC.h>
 
